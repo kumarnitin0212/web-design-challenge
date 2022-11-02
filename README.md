@@ -1,5 +1,5 @@
 Web Visualization Dashboard 
-Background
+#Background
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
@@ -149,31 +149,23 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen](Images/visualize-lg.png)
+![visualize-lg](https://user-images.githubusercontent.com/104722723/199367485-cadc8a6f-da3e-40e9-ae40-09f9ac949e99.png)
+
 
 Small screen:
 
-![visualize page small screen](Images/visualize-sm.png)
+![visualize-sm](https://user-images.githubusercontent.com/104722723/199367460-3105d072-b55b-4f6a-8478-854d80e0116a.png)
+
 
 #### <a id="navigation-menu"></a>Navigation menu
 
 Large screen:
-![nav menu large screen](Images/nav-lg.png)
+![nav-lg](https://user-images.githubusercontent.com/104722723/199367437-8b6d45e4-77f7-43a2-9d5c-5321c9ed9774.png)
+
 
 Small screen:
-![nav menu small screen](Images/nav-sm.png)
-
-## Rubric
-
-[Unit 11 Homework Rubric](https://docs.google.com/document/d/16RJehl9qVOxdj7o7hUwvdlsoyrA_-kaoB8CGwr9LX_Y/edit?usp=sharing)
-
-- - -
+![nav-sm](https://user-images.githubusercontent.com/104722723/199367383-c65e6092-6551-4da6-bad5-931f523108b6.png)
 
 ## References
-
 OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
-
-- - -
-
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
 
