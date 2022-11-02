@@ -3,7 +3,8 @@ Background
 
 Data is more powerful when we share it with others! Let's use what we've learned about HTML and CSS to create a dashboard featuring the analysis that we've done, as captured in the following image:
 
-  ![Images/landingResize.png](Images/landingResize.png)
+  ![image](https://user-images.githubusercontent.com/104722723/199366946-69df20cf-233e-4020-a9a4-d44f34c3df93.png)
+
 
 ## Before You Begin
 
