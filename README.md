@@ -115,33 +115,39 @@ This section contains screenshots of each page that must be built, at varying sc
 
 Large screen:
 
-![Landing page large screen](Images/landingResize.png)
+![landingResize](https://user-images.githubusercontent.com/104722723/199367719-6626bb4b-d428-4ff5-915a-4720e308eb8d.png)
+
 
 Small screen:
 
-![Landing page small screen](Images/landing-sm.png)
+![landing-sm](https://user-images.githubusercontent.com/104722723/199367708-d02095dc-8b13-4841-8b47-a2e4500f32b0.png)
+
 ￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
 
-![comparison page large screen](Images/comparison-lg.png)
+![comparison-lg](https://user-images.githubusercontent.com/104722723/199367678-d7365525-5695-46c2-af78-db42fae5a0f2.png)
+
 
 Small screen:
 
-![comparison page small screen](Images/comparison-sm.png)
+![comparison-sm](https://user-images.githubusercontent.com/104722723/199367669-288a300f-7569-4976-a69a-139df0b36760.png)
+
 
 #### <a id="data-page"></a>Data page
 
 Large screen:
 
-![data page large screen](Images/data-lg.png)
+
+![data-lg](https://user-images.githubusercontent.com/104722723/199367658-0f067cd6-5f82-436d-8e10-4d6388703a50.png)
 
 
 Small screen:
 
-![data page small screen](Images/data-sm.png)
+![data-sm](https://user-images.githubusercontent.com/104722723/199367641-cab43ea5-d020-43f9-90b9-28844c67af50.png)
+
 
 #### <a id="visualization-pages"></a>Visualization pages
 
